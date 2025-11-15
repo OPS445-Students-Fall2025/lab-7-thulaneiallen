@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: thulaneiallen
+    Linux system name: thulaneiallen-virtual-machine
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/thulaneiallen/ops445/lab7
+    Start at: Fri Nov 14 21:10:59 2025
+=================================================================
